@@ -2,18 +2,12 @@
 A simple yet powerful To-Do List application built with Python and Tkinter. This app helps you organize your tasks, stay productive, and even keeps you motivated with dynamic motivational messages.
 
 
----
-
 ## 🚀 Features
 
 * ✅ Add, Edit, and Delete tasks easily
 * 💾 **Persistent storage** (tasks are saved in `tasks.txt` automatically)
-* 🔢 Shows **total number of tasks** at any time
-* 🌟 Displays a **motivational message** that updates dynamically when you add tasks
 * 🎨 Clean and simple **GUI with Tkinter**
 * 🖥️ Can be converted into a **standalone .exe application** (using PyInstaller)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -22,13 +16,6 @@ A simple yet powerful To-Do List application built with Python and Tkinter. This
 * **File Handling**: Plain text (`tasks.txt`)
 * **Packaging**: PyInstaller (for .exe build)
 
----
-
-## 📸 Screenshot (Optional)
-
-> *(Add a screenshot of your app window here if you want — it will impress more!)*
-
----
 
 ## 📂 Project Structure
 
@@ -59,7 +46,6 @@ TodoApp/
    pyinstaller --onefile --windowed todo_gui.py
    ```
 
----
 
 ## 🌱 Future Improvements
 
@@ -73,10 +59,5 @@ TodoApp/
 
 ## ✨ Author
 
-👩‍💻 Developed by **\[Your Name]** – Passionate about Python & building simple apps that make life easier.
+👩‍💻 Developed by **\Haritha_Jana** – Passionate about Python & building simple apps that make life easier.
 
----
-
-👉 You can copy this **as your GitHub README.md**.
-
-Do you want me to also **write short GitHub tags (keywords)** so your project is easily searchable (like `#Python #Tkinter #ToDoApp`)?
